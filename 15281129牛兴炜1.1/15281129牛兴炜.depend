@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1552134778 source:c:\users\16692\documents\git²Ö¿â\git-codeblock\15281129Å£ÐËì¿\main.cpp
+	<iostream>
+	"lesson1.h"
+	<stdlib.h>
+	<stdio.h>
+
+1552129123 c:\users\16692\documents\git²Ö¿â\git-codeblock\15281129Å£ÐËì¿\lesson1.h
+
+1552305973 source:c:\users\16692\documents\git²Ö¿â\git-codeblock\15281129Å£ÐËì¿1.1\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	"lesson1.h"
+	"lesson1.cpp"
+
+1552129123 c:\users\16692\documents\git²Ö¿â\git-codeblock\15281129Å£ÐËì¿1.1\lesson1.h
+
+1552316414 c:\users\16692\documents\git²Ö¿â\git-codeblock\15281129Å£ÐËì¿1.1\lesson1.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+
