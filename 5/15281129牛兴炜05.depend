@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1552190283 source:c:\users\16692\documents\git²Ö¿â\git-codeblock\15281129Å£ÐËì¿05\main.cpp
+	<iostream>
+	"lesson5.h"
+	<stdio.h>
+	<stdlib.h>
+
+1552190238 c:\users\16692\documents\git²Ö¿â\git-codeblock\15281129Å£ÐËì¿05\lesson5.h
+
+1552391551 source:c:\users\16692\documents\git²Ö¿â\git-codeblock\15281129Å£ÐËì¿1.5\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"lesson5.cpp"
+	"lesson5.h"
+
+1552190238 c:\users\16692\documents\git²Ö¿â\git-codeblock\15281129Å£ÐËì¿1.5\lesson5.h
+
+1552390992 c:\users\16692\documents\git²Ö¿â\git-codeblock\15281129Å£ÐËì¿1.5\lesson5.cpp
+	<iostream>
+	"lesson5.h"
+	<stdio.h>
+	<stdlib.h>
+
+1552392355 source:c:\users\16692\documents\git\git-codeblock\15281129Å£ÐËì¿1.5\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"lesson5.cpp"
+	"lesson5.h"
+
+1552392459 c:\users\16692\documents\git\git-codeblock\15281129Å£ÐËì¿1.5\lesson5.cpp
+	<iostream>
+	"lesson5.h"
+	<stdio.h>
+	<stdlib.h>
+
+1552393779 c:\users\16692\documents\git\git-codeblock\15281129Å£ÐËì¿1.5\lesson5.h
+
